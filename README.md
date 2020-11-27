@@ -1,6 +1,6 @@
 B站移动端练习
 
-技术栈 vue + vuex + vue-router + ES6/7 + less + flex + vant
+技术栈 vue + vuex + vue-router + ES6/7 + scss + flex + vant
 
 项目运行
 
@@ -10,7 +10,7 @@ npm run serve
 
 关于接口数据（小风__提供）
 http://112.74.99.5:3000/web/api
-
+scss
 功能
 
  登录功能
